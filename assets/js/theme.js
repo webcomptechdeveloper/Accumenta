@@ -124,7 +124,7 @@
 
     });
 	
-	 // Case Study Active
+	 // Carrers Active
     $('.case_study_list').owlCarousel({
         loop: true,
         autoplay: true,
@@ -151,7 +151,7 @@
         }
     })
 		
-	 // Case Study Active
+	 // Carrers Active
     $('.case_study_list2').owlCarousel({
         loop: true,
         autoplay: true,
@@ -177,7 +177,7 @@
             }
         }
     })	
-	// Case Study Active
+	// Carrers Active
     $('.case_study_list3').owlCarousel({
         loop: true,
         autoplay: true,
