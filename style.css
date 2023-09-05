@@ -8765,9 +8765,12 @@ span.chose-icon2 {
 	color: #495057;
 	background-color: #fff;
 }
-.main_contact_area .quote_btn button {
+.main_contact_area .Button {
     background: #0b4c8b;
 	color:#fff;
+    width: 150px;
+    border-radius: 25px;
+    margin-left: 450px;
 }
 .main_contact_area  .form_box input:focus,
 .main_contact_area  .form_box textarea:focus{
@@ -8784,7 +8787,7 @@ span.chose-icon2 {
     border: 1px solid #ddd;
     border-radius: 10px;
 }
-.google_map_area .col-lg-12{
+.google_map_area .col-lg-07{
     padding: 0;
 }
 /* Contact Style Three */ 
@@ -8868,6 +8871,7 @@ span.chose-icon2 {
     display: inline-block;
     transform: translateY(-50%);
     z-index: 11;
+    
 }
 /*seo thumb*/
 .seo-shape-thumb {
